@@ -1,6 +1,0 @@
-bearer_token="AAAAAAAAAAAAAAAAAAAAAO1%2F2QEAAAAAMFMg%2BUA5iOZapft6YlwtVFWjWJo%3DJrgF6Gxyv830iS9XPwDJMytJayUCmAYo54PSUSq16eUt2kYc99"
-access_token="1930377600238596098-2zgwXcjAOujdY6pfmAirZ0AKhB60WS"
-access_token_secret="TU84TaUMaeRnyAo0yAnALJvyuoXqVG5abPsie9y7qMzef"
-consumer_key="rLMzRfmOyHbUcvvp4HGbnIdW3"
-consumer_secret="5QFxsV8Bj7Zmvlxh89Gueb7HgVYrsaEQavjR468GuRcSIIUExu"
-tweet_text = "Hello, world! This is a test tweet from my Python script."
